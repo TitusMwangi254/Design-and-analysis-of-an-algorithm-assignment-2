@@ -16,5 +16,4 @@ This repository contains the solutions to Assignment 2 on Data Structures and Al
 - Clone this repository to your local machine.
 - Use the provided Python or C++ files to execute the tasks.
 
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
